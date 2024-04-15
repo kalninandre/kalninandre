@@ -2,10 +2,6 @@
 
 Sou um desenvolvedor Full Stack, e trabalho a aproximadamente 3 anos com desenvolvimento Web.
 
-Além do trabalho, também crio conteúdo para o [Instagram](https://instagram.com/kalninandre) sobre programação, com tópicos focados principalmente na parte de Node.js e React.js com a utilização de Typescript.
-
-Em meu tempo livre, tenho estudado ambientes em nuvem (AWS) para em breve buscar o certificado AWS Cloud Practioner.
-
 Atualmente trabalho em uma FINTECH, desenvolvendo toda a parte administrativa client-side, utilizando React.js e Typescript como principal base de construção.
 
 <div style="display: inline_block"><br>
