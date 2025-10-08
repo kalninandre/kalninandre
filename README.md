@@ -1,8 +1,14 @@
 ### Olá,
 
-Sou um desenvolvedor Full Stack, e trabalho a aproximadamente 3 anos com desenvolvimento Web.
+Sou um desenvolvedor Full Stack com cerca de 5.0 anos de experiência em aplicações Web, com foco em criar soluções escaláveis, performáticas e de alta qualidade.
 
-Atualmente trabalho em uma FINTECH, desenvolvendo toda a parte administrativa client-side, utilizando React.js e Typescript como principal base de construção.
+Atualmente atuo como Front-End Lead em uma fintech, onde sou responsável pela evolução do código, padronização de arquitetura e entregas que impulsionam a confiabilidade da plataforma como instituição financeira.
+
+No dia a dia, trabalho principalmente com React.js, TypeScript e C#, além de atuar também no back-end com Node.js e .NET, aplicando boas práticas de Clean Code, Domain-Driven Design (DDD) e testes automatizados (Cypress).
+
+Tenho experiência em integrações em tempo real (SignalR, WebSocket), cache com MongoDB, e deploys em nuvem AWS, sempre buscando manter um ecossistema moderno e colaborativo entre times.
+
+Busco constantemente ampliar meu conhecimento técnico e aprimorar a qualidade das soluções que construo.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
