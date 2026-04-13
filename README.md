@@ -1,6 +1,6 @@
 ### Olá,
 
-Sou um desenvolvedor Full Stack com cerca de 5.0 anos de experiência em aplicações Web, com foco em criar soluções escaláveis, performáticas e de alta qualidade.
+Sou um desenvolvedor Full Stack com cerca de 6.0 anos de experiência em aplicações Web, com foco em criar soluções escaláveis, performáticas e de alta qualidade.
 
 Atualmente atuo como Front-End Lead em uma fintech, onde sou responsável pela evolução do código, padronização de arquitetura e entregas que impulsionam a confiabilidade da plataforma como instituição financeira.
 
